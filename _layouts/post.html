@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="content">
+    <p></p>
+    <div class="title">
+        <h2>{{ page.title }}</h2> <!-- Title -->
+        <h5>{{ page.date | date_to_string }}</h5> <!-- Date -->
+    </div>
+    <hr class="blog-line">
+    {% assign paragraphs = content | markdownify %}
+    {% for paragraph in paragraphs %}
+        {% if paragraph != "" %}
+        <p class="mono word" style="white-space: pre-line;">{{ paragraph | strip_html }}</p>
+        {% endif %}
+    {% endfor %}
+    {% include navigation.html %}
+</div>
