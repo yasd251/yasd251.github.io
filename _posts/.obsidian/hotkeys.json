@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:template/BLOG TEMPLATE.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}
