@@ -3,7 +3,13 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% if page.layout != "post" %}
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    {% elsif page.layout == "post" %}
+        <link rel="stylesheet" href="/assets/css/style2.css">
+    {% else %}
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    {% endif %}
   </head>
   <body>
     {{ content }}

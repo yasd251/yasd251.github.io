@@ -3,6 +3,11 @@ layout: default
 title: about
 ---
 <div class="center">
-    <div class="mono">{{content}}</div>
+    {% assign paragraphs = content | markdownify %}
+    {% for paragraph in paragraphs %}
+        {% if paragraph != "" %}
+        <p class="mono word" style="white-space: pre-line;">{{ paragraph | strip_html }}</p>
+        {% endif %}
+    {% endfor %}
     {% include navigation.html %}
 </div>
