@@ -3,7 +3,7 @@ layout: post
 title: The Magical Pocket Book
 date: 2023-11-13
 ---
-A pocket book is an extremely vital tool within my life, it serves the purpose of capturing ideas, thoughts, feelings, all inside of a pocket book that must be around me at all times.
+A pocket book is an extremely vital tool within my life, it serves the purpose of capturing ideas, thoughts, feelings, all inside of a pocket book.
 
 The idea of starting this website started from an idea from my pocket books. These kinds of thoughts are usually termed as "seedlings" within the Personal Knowledge Management world, it's a cool metaphor that mostly describes the things that are written in notebooks.
 
