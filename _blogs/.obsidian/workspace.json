@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Pocket Book.md",
+                "file": "The Magical Pocket Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Pocket Book.md",
+                "file": "The Magical Pocket Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Pocket Book.md",
+                "file": "The Magical Pocket Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Pocket Book.md"
+                "file": "The Magical Pocket Book.md"
               }
             }
           }
@@ -171,7 +171,7 @@
   "active": "bfaada5161afb6df",
   "lastOpenFiles": [
     "Gamification of Life.md",
-    "The Pocket Book.md",
+    "The Magical Pocket Book.md",
     "_templates/BLOG TEMPLATE.md",
     "_templates",
     "templates/BLOG TEMPLATE.md",
