@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-13-.md",
+                "file": "2023-11-13-Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c08eda75a90883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-13-Link.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-13-.md",
+                "file": "2023-11-13-Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-13-.md",
+                "file": "2023-11-13-Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-13-.md"
+                "file": "2023-11-13-Link.md"
               }
             }
           }
@@ -156,10 +168,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccd71cf14045a512",
+  "active": "b3c08eda75a90883",
   "lastOpenFiles": [
+    "2023-11-13-Welcome.md",
+    "2023-11-13-Link.md",
     "template/BLOG TEMPLATE.md",
-    "2023-11-13-.md",
     "2018-08-20-bananas.md",
     "2023-11-13-the pocket book.md",
     "2023-11-13-TEST.md"
