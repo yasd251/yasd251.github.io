@@ -33,6 +33,7 @@ a:hover {
 
 .content {
     width: 700px;
+    height: 100%;
 }
 
 .word {
@@ -65,4 +66,15 @@ h1, p {
 p {
     font-size: 16px;
     white-space: pre-line;
+}
+
+li {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 15px;
+}
+
+
+.spacer {
+    padding-bottom: 200px;
 }

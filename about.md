@@ -8,9 +8,9 @@ This static website ensures a lightweight and minamalistic experience by its ove
 
 I like to write short-essays on subjects that I find interesting, I hope you enjoy reading them as much as I like writing them
 
-if you would like to contact me please use the following email and discord below:
+**if you would like to contact me please use the following email and discord below:
 securemail - "yasd251@proton.me"
-discord - "lemmyo"
+discord - "lemmyo"**
 
 if you enjoy similar content to this, here are some other people you might also enjoy:
 [Steph Ango](https://stephango.com)
