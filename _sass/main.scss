@@ -10,7 +10,7 @@ align-items: center;
 }
 
 .center {
-    width: 700px;
+    width: 100%;
     text-align: center;
     
 }
@@ -38,10 +38,6 @@ a:hover {
     width: 900px;
 }
 
-.content {
-    width: 700px;
-}
-
 .word {
     word-wrap: break-word;
     overflow-wrap:break-word;
@@ -62,7 +58,7 @@ h5 {
 }
 
 .default-line {
-    width: 300px;
+    width: 100%;
 }
 
 @media only screen and (max-width: 768px) {
