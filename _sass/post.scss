@@ -78,3 +78,13 @@ li {
 .spacer {
     padding-bottom: 200px;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .content {
+        width: 80%;
+    }
+    .blog-line {
+        width: 100%;
+    }
+}
