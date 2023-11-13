@@ -18,7 +18,7 @@ a:hover { color: darkblue; }
 
 .title { height: 50px; display: flex; justify-content: space-between; }
 
-.default-line { width: 300px; }
+.default-line { width: 450px; }
 
 p { font-size: 14px; font-family: monospace; white-space: pre-line; }
 
