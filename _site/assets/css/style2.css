@@ -29,7 +29,3 @@ p { font-size: 16px; white-space: pre-line; }
 li { font-family: monospace; font-style: italic; font-size: 15px; }
 
 .spacer { padding-bottom: 200px; }
-
-@media only screen and (max-width: 768px) { /* For mobile phones: */
-  .content { width: 80%; }
-  .blog-line { width: 100%; } }
