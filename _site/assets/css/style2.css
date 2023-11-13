@@ -10,8 +10,6 @@ a:visited { color: blue; }
 
 a:hover { color: darkblue; }
 
-.content { width: 900px; }
-
 .content { width: 700px; }
 
 .word { word-wrap: break-word; overflow-wrap: break-word; }
@@ -23,3 +21,7 @@ h5 { margin-top: 30px; }
 .blog-line { width: 700px; }
 
 .default-line { width: 300px; }
+
+h1, p { font-family: monospace; }
+
+p { font-size: 16px; white-space: pre-line; }
