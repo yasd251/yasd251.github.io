@@ -1,0 +1,64 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+align-items: center;
+    justify-content: center;
+}
+
+.center {
+    width: 750px;
+    text-align: center;
+    
+}
+
+a:visited {
+    color: blue;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+
+.smol {
+    font-size: smaller;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+.content {
+    text-align: center;
+    width: 900px;
+}
+
+.content {
+    width: 700px;
+}
+
+.word {
+    word-wrap: break-word;
+    overflow-wrap:break-word;
+}
+
+.title {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.default-line {
+    width: 300px;
+}
+
+p {
+    font-size: 14px;
+    font-family: monospace;
+    white-space: pre-line;
+}

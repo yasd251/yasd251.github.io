@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfaada5161afb6df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Pocket Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14800a46c78664d8",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamification of Life.md",
+                "file": "The Pocket Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamification of Life.md",
+                "file": "The Pocket Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamification of Life.md"
+                "file": "The Pocket Book.md"
               }
             }
           }
@@ -155,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e801c8d4e85f696",
+  "active": "bfaada5161afb6df",
   "lastOpenFiles": [
+    "Gamification of Life.md",
+    "The Pocket Book.md",
     "_templates/BLOG TEMPLATE.md",
     "_templates",
     "templates/BLOG TEMPLATE.md",
-    "Gamification of Life.md",
     "templates"
   ]
 }

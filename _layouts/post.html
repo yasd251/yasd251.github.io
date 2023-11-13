@@ -31,7 +31,7 @@ layout: default
 
     {% assign replacedcontent = page.content %}
     {% for item in linkarray %}
-        {% assign linktext = '<a href="' | append: item + '.html' | append: '">' | append: item | append: '</a>' %}
+        {% assign linktext = '<a href="' | append: item | append: '">' | append: item | append: '</a>' %}
         {% assign bracketlink = '[[' | append: item | append: ']]' %}
         {% assign replacedcontent = replacedcontent | replace: bracketlink,linktext %}
     {% endfor %}
