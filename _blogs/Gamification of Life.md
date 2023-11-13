@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello
+title: Gamification of Life
 date: 2023-11-13
 ---
 I always wondered whether life could be somewhat comparable to a video game in terms of the constructs that are usually found within video games. 
