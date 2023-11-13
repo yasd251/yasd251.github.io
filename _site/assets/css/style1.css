@@ -23,4 +23,4 @@ a:hover { color: darkblue; }
 p { font-size: 14px; font-family: monospace; white-space: pre-line; }
 
 @media only screen and (max-width: 768px) { /* For mobile phones: */
-  .center { width: 450px; } }
+  .center { width: 80%; } }

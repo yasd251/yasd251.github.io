@@ -26,5 +26,5 @@ h5 { margin-top: 30px; }
 
 @media only screen and (max-width: 768px) { /* For mobile phones: */
   .center { width: 100%; }
-  .default-line { width: 450px; }
+  .default-line { width: 60%; }
   h4 { font-size: 18px; } }
