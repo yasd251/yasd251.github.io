@@ -27,6 +27,7 @@ It's been super useful recently, mainly because it is the Deepavali break and I 
 	- Reply to text messages
 - Spend 3-5 minutes writing down what you need to get down EXACTLY in the next 30 minutes
 - Repeat the cycle 
+
 Notes: I also like to incorporate this technique with completing the hardest work during the earliest part of the day (Eat the Frog) as that is the time where willpower is abundant and if completed, the whole rest of the day is off! i can focus on the things I want to do
 
 Without this technique, I barely can focus on the work at hand for minutes at a time, I would write a paragraph and scroll through YouTube for the next 30 minutes until return back to the dreaded Google Docs to write another paragraph (cycle repeats)
