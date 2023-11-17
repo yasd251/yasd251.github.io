@@ -14,7 +14,7 @@ a:hover { color: darkblue; }
 
 .word { word-wrap: break-word; overflow-wrap: break-word; }
 
-.title { height: 50px; display: flex; justify-content: space-between; }
+.title { height: 50px; display: flex; justify-content: space-evenly; }
 
 h5 { margin-top: 30px; }
 

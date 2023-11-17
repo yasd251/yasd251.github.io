@@ -1,0 +1,17 @@
+---
+layout: default
+title: about
+---
+<div class="center">
+    <h2>{{ page.person }}</h2>
+    {{content}}
+    <div class="navigation-bar">
+        <h4><a href='{{ page.pre }}'>← previous quote</a></h4>
+        {% include navigation.html %}
+        {% assign numberofpages = site.commonplace | size %}
+        {% if page.nex < numberofpages %}
+            <h4><a href='{{ page.nex }}'>next quote →</a></h4>
+        {% endif %}
+    </div>
+    
+</div>

@@ -4,3 +4,5 @@ baseurl: /    # place folder name if the site is served in a subfolder
 collections: 
   mymind:
     output: true
+  commonplace:
+    output: true
