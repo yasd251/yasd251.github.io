@@ -14,7 +14,7 @@ a:hover { color: darkblue; }
 
 .word { word-wrap: break-word; overflow-wrap: break-word; }
 
-.title { height: 50px; display: flex; justify-content: space-evenly; }
+.title { height: 50px; display: flex; justify-content: space-between; }
 
 h5 { margin-top: 30px; }
 
@@ -29,3 +29,7 @@ p { font-size: 16px; white-space: pre-line; }
 li { font-family: monospace; font-style: italic; font-size: 15px; }
 
 .spacer { padding-bottom: 200px; }
+
+@media only screen and (max-width: 770px) { /* For mobile phones: */
+  .content { width: 80%; }
+  .blog-line { width: 100%; } }
