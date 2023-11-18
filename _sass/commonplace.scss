@@ -9,6 +9,10 @@ align-items: center;
     justify-content: center;
 }
 
+.spacer {
+    transform: translateX(-20px);
+}
+
 .center {
     width: 750px;
     text-align: center;
@@ -76,5 +80,8 @@ p {
     /* For mobile phones: */
     .center {
         width: 450px;
+    }
+    .spacer {
+        transform: none;
     }
 }
