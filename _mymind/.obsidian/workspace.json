@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14800a46c78664d8",
@@ -191,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ed2ad80f4aaffe1",
+  "active": "40b3620b9b83026e",
   "lastOpenFiles": [
     "Plant a Tomato Tree.md",
     "Idea - alto..md",
