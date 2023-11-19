@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning In Public.md",
+                "file": "Plant a Tomato Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14800a46c78664d8",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning In Public.md",
+                "file": "Plant a Tomato Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning In Public.md",
+                "file": "Plant a Tomato Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning In Public.md"
+                "file": "Plant a Tomato Tree.md"
               }
             }
           }
@@ -206,8 +205,8 @@
   },
   "active": "12c8a6b231d7a75d",
   "lastOpenFiles": [
-    "Idea - alto..md",
     "Learning In Public.md",
+    "Idea - alto..md",
     "Plant a Tomato Tree.md",
     "The Magical Pocket Book.md",
     "Gamification of Life.md",
