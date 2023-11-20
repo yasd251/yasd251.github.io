@@ -17,7 +17,7 @@ layout: default
             {% else %}
                 {% assign links = links | append: ',' | append: itemparts[0] %}
             {% endif %}
-            {% assign result = site.posts | where: 'title',itemparts[0] %}
+            {% assign result = site.mymind | where: 'title',itemparts[0] %}
             {% if forloop.index == 2 %}
                 {% assign urls = result[0].url %}
             {% else %}
@@ -25,13 +25,11 @@ layout: default
             {% endif %}
         {% endif %}
     {% endfor %}
-
     {% assign urlarray = urls | split:',' %}
     {% assign linkarray = links | split:',' %}
-
     {% assign replacedcontent = page.content %}
     {% for item in linkarray %}
-        {% assign linktext = '<a href="' | append: item | append: '">' | append: item | append: '</a>' %}
+        {% assign linktext = '<a href="' | append: urlarray[forloop.index0] | append: '">' | append: item | append: '</a>' %}
         {% assign bracketlink = '[[' | append: item | append: ']]' %}
         {% assign replacedcontent = replacedcontent | replace: bracketlink,linktext %}
     {% endfor %}
