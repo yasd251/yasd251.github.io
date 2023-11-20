@@ -9,7 +9,7 @@ A benefit of learning is succinctly articulated within [The Odin Project](https:
 
 *"Teaching what you know to others is a great way to solidify what you have learned and can often reveal holes in your knowledge that you wouldn’t have identified otherwise."*
 
-Learning in public takes a form of courage to really do, it takes the willingness to have the stamina to consistently learn and show your, to be humble and open to feedback, and above all, a willingness to look really, really stupid.
+Learning in public takes the willingness to have the stamina to consistently learn and show your work, to be open to feedback, and above all, a willingness to look really, really stupid.
 
 I encourage you to try Learning in Public, and may the benefits of learning in public come to you.
 

@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plant a Tomato Tree.md",
+                "file": "Learning In Public.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plant a Tomato Tree.md",
+                "file": "Learning In Public.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plant a Tomato Tree.md",
+                "file": "Learning In Public.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plant a Tomato Tree.md"
+                "file": "Learning In Public.md"
               }
             }
           }
@@ -205,9 +205,9 @@
   },
   "active": "12c8a6b231d7a75d",
   "lastOpenFiles": [
+    "Plant a Tomato Tree.md",
     "Learning In Public.md",
     "Idea - alto..md",
-    "Plant a Tomato Tree.md",
     "The Magical Pocket Book.md",
     "Gamification of Life.md",
     "_templates/BLOG TEMPLATE.md",
