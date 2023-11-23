@@ -14,4 +14,4 @@ This link can then be sent via email or some other form.
 
 So cool...
 
-![[Pasted image 20231122154107.png]]
+![Example](/assets/images/secretsanta.png)
