@@ -14,5 +14,3 @@ This link can then be sent via email or some other form.
 
 So cool...
 
-![Example|400](/assets/images/secretsanta.png){:height="700px" width="400px"}
-

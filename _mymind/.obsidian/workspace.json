@@ -62,21 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "12c8a6b231d7a75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret Santa Savior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Santa Savior.md",
+                "file": "Idea - alto..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Santa Savior.md",
+                "file": "Idea - alto..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret Santa Savior.md"
+                "file": "Idea - alto..md"
               }
             }
           }
@@ -203,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c8a6b231d7a75d",
+  "active": "3ed2ad80f4aaffe1",
   "lastOpenFiles": [
-    "assets/secretsanta.png",
     "Secret Santa Savior.md",
+    "assets/secretsanta.png",
     "The Magical Pocket Book.md",
     "assets",
     "Plant a Tomato Tree.md",
