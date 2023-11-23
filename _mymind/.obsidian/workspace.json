@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7991325bfff4552f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret Santa Savior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "Secret Santa Savior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "Secret Santa Savior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea - alto..md"
+                "file": "Secret Santa Savior.md"
               }
             }
           }
@@ -203,12 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c8a6b231d7a75d",
+  "active": "7991325bfff4552f",
   "lastOpenFiles": [
+    "Pasted image 20231122154107.png",
+    "Idea - alto..md",
+    "Secret Santa Savior.md",
     "Learning In Public.md",
     "Plant a Tomato Tree.md",
     "The Magical Pocket Book.md",
-    "Idea - alto..md",
     "Gamification of Life.md",
     "_templates/BLOG TEMPLATE.md",
     "_templates",
