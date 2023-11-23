@@ -69,18 +69,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea - alto..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7991325bfff4552f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Secret Santa Savior.md",
                 "mode": "source",
                 "source": false
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,11 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7991325bfff4552f",
+  "active": "12c8a6b231d7a75d",
   "lastOpenFiles": [
-    "Pasted image 20231122154107.png",
     "Idea - alto..md",
+    "2023-11-23.md",
     "Secret Santa Savior.md",
+    "Pasted image 20231122154107.png",
     "Learning In Public.md",
     "Plant a Tomato Tree.md",
     "The Magical Pocket Book.md",

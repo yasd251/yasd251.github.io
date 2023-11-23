@@ -1,3 +1,8 @@
+---
+layout: post
+title: Secret Santa Savior
+date: 2023-11-22
+---
 I found this website as I was prepping for Student Council's upcoming event: 
 [Secret Santa: arcanis.github.io](https://github.com/arcanis/secretsanta)
 
