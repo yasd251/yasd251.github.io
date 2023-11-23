@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3679178cf90d1393",
+        "id": "0371752f8657ad77",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a6d1fd01aadf16",
+            "id": "b0eac0244f9bc7e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d1105bc2b795df",
+  "active": "b0eac0244f9bc7e6",
   "lastOpenFiles": [
+    "_commonplace/1.md",
+    "_commonplace/0.md",
     "_site/mymind.html",
     "mymind.html",
     "_site/mymind/The Magical Pocket Book.html",
