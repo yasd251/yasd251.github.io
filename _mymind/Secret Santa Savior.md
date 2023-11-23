@@ -14,4 +14,4 @@ This link can then be sent via email or some other form.
 
 So cool...
 
-![Example](/assets/images/secretsanta.png)
+![Example|400](/assets/images/secretsanta.png)
