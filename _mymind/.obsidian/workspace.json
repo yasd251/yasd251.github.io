@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b629794dd8b98ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret Santa Savior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "Secret Santa Savior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "Secret Santa Savior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea - alto..md"
+                "file": "Secret Santa Savior.md"
               }
             }
           }
@@ -191,14 +203,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ed2ad80f4aaffe1",
+  "active": "0b629794dd8b98ac",
   "lastOpenFiles": [
+    "Idea - alto..md",
+    "The Student Wikipedia.md",
+    "The Magical Pocket Book.md",
     "Secret Santa Savior.md",
     "assets/secretsanta.png",
-    "The Magical Pocket Book.md",
     "assets",
     "Plant a Tomato Tree.md",
-    "Idea - alto..md",
     "2023-11-23.md",
     "Learning In Public.md",
     "Gamification of Life.md",
