@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -211,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9.md"
+              }
             }
           }
         ]
@@ -269,10 +273,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6251575db7913651",
+  "active": "58c4b3c8d5b48f84",
   "lastOpenFiles": [
-    "9.md",
     "8.md",
+    "9.md",
     "7.md",
     "6.md",
     "5.md",
