@@ -1,3 +1,8 @@
+---
+layout: post
+title: My Programming Course
+date: 2023-12-03
+---
 I will be starting a trial class soon where I will be teaching the basics and some intermediate topics of programming in Python to my classmates. I wish that this will hopefully branch out towards the other grade levels. It's also a good experience for me in terms of how do I articulate concepts to a complete beginner.
 
 I have devised two different pathways for learning in this course, Basic, and Accelerated.
