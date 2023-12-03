@@ -6,3 +6,5 @@ collections:
     output: true
   commonplace:
     output: true
+  coding:
+    output: true

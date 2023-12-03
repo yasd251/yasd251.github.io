@@ -20,4 +20,3 @@ if you enjoy similar content to this, here are some other people you might also 
 
 
 surf around and i hope you enjoy what you read up on!
-

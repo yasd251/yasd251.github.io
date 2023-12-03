@@ -1,49 +1,62 @@
 {
   "main": {
-    "id": "b63e14cc24a9d6a8",
+    "id": "2633700cd5b08888",
     "type": "split",
     "children": [
       {
-        "id": "0371752f8657ad77",
+        "id": "1dd9e7135d5ec334",
         "type": "tabs",
         "children": [
           {
-            "id": "b0eac0244f9bc7e6",
+            "id": "e5950a2483960e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md",
+                "file": "_templates/TEMPLATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d7d8f21cdfac18e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - About this Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9c5d98e645f41a26",
+    "id": "3935c4aea230140f",
     "type": "split",
     "children": [
       {
-        "id": "25a7df243743fa76",
+        "id": "8492bef4efd81001",
         "type": "tabs",
         "children": [
           {
-            "id": "15d1105bc2b795df",
+            "id": "6498ccc6cf3eb6df",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "072bd919a844dd85",
+            "id": "f2d9e073fdbac9f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "6ee8bd2f28881947",
+            "id": "825c4b7d81c4f656",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "d2886d80d3fd0d2b",
+    "id": "237965e3765be92c",
     "type": "split",
     "children": [
       {
-        "id": "61ac4614f836007d",
+        "id": "17e4d2bfe228b78d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d2a5ba2253b028",
+            "id": "2a43fdb3dd3decbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md",
+                "file": "00 - About this Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "a4f9b8dba407b8c9",
+            "id": "835ac201348b84aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md",
+                "file": "00 - About this Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "df3c71addbce80d0",
+            "id": "24791d4ed0175a4d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "f55bca72d3464cfe",
+            "id": "e17b998222bdc521",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md"
+                "file": "00 - About this Course.md"
               }
             }
           }
@@ -146,26 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d1105bc2b795df",
+  "active": "9d7d8f21cdfac18e",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231204063612.png",
-    "assets/images/Pasted image 20231204063636.png",
-    "assets/images/secretsanta.png",
-    "_mymind/The Learner - Teacher Barrier.md",
-    "about.md",
-    "_site/assets/images/Pasted image 20231204063636.png",
-    "_site/assets/images/Pasted image 20231204063612.png",
-    "_commonplace/1.md",
-    "_commonplace/0.md",
-    "_site/mymind.html",
-    "mymind.html",
-    "_site/mymind/The Magical Pocket Book.html",
-    "_site/mymind/Gamification of Life.html",
-    "_site/mymind",
-    "_mymind/_templates/BLOG TEMPLATE.md",
-    "_mymind/_templates",
-    "_mymind/The Magical Pocket Book.md",
-    "_mymind/Gamification of Life.md",
-    "_mymind"
+    "_templates/TEMPLATE.md",
+    "00 - About this Course.md"
   ]
 }
