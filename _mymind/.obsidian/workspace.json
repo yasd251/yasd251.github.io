@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b7ea6b107bd69ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My very own Programming Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Santa Savior.md",
+                "file": "My very own Programming Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Santa Savior.md",
+                "file": "My very own Programming Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret Santa Savior.md"
+                "file": "My very own Programming Course.md"
               }
             }
           }
@@ -203,12 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b629794dd8b98ac",
+  "active": "5b7ea6b107bd69ab",
   "lastOpenFiles": [
+    "Secret Santa Savior.md",
+    "My very own Programming Course.md",
     "Idea - alto..md",
     "The Student Wikipedia.md",
     "The Magical Pocket Book.md",
-    "Secret Santa Savior.md",
     "assets/secretsanta.png",
     "assets",
     "Plant a Tomato Tree.md",
