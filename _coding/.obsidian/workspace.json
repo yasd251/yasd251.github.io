@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - About this Course.md",
+                "file": "_templates/TEMPLATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - About this Course.md",
+                "file": "_templates/TEMPLATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - About this Course.md",
+                "file": "_templates/TEMPLATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - About this Course.md"
+                "file": "_templates/TEMPLATE.md"
               }
             }
           }
@@ -161,7 +161,8 @@
   },
   "active": "9d7d8f21cdfac18e",
   "lastOpenFiles": [
-    "_templates/TEMPLATE.md",
-    "00 - About this Course.md"
+    "00 - About this Course.md",
+    "0 About this Course.md",
+    "_templates/TEMPLATE.md"
   ]
 }

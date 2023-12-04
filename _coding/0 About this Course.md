@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 00 - About this Course
+title: 0. About this Course
 date: 2023-12-04
 ---
 Welcome to the programming course.
