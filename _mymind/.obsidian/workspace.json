@@ -91,9 +91,11 @@
             "id": "53ea45394ef77a22",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20231204062924.png"
+                "file": "Idea - alto..md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20231204062924.png",
+                "file": "Idea - alto..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20231204062924.png",
+                "file": "Idea - alto..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20231204062924.png"
+                "file": "Idea - alto..md"
               }
             }
           }
@@ -227,8 +229,11 @@
   },
   "active": "53ea45394ef77a22",
   "lastOpenFiles": [
-    "The Learner - Teacher Barrier.md",
+    "Learning In Public.md",
+    "Untitled.md",
+    "All Malaysians have The Force.md",
     "assets/Pasted image 20231204062924.png",
+    "The Learner - Teacher Barrier.md",
     "My very own Programming Course.md",
     "Secret Santa Savior.md",
     "Idea - alto..md",
@@ -238,7 +243,6 @@
     "assets",
     "Plant a Tomato Tree.md",
     "2023-11-23.md",
-    "Learning In Public.md",
     "Gamification of Life.md",
     "_templates/BLOG TEMPLATE.md",
     "_templates",

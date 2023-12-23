@@ -4,7 +4,7 @@ title: about
 ---
 Hey reader, my name is Lemuel.
 
-251. is a personal static website acting as a web-journal of sorts, ideas, projects that i'm working on, blogs, anything of interest goes here! 
+[251.] is a personal static website acting as a web-journal of sorts, ideas, projects that i'm working on, blogs, anything of interest goes here! 
 
 This static website ensures a lightweight and minamalistic experience by its overall simplistic design (which is my excuse for not touching front-end thingsss)
 

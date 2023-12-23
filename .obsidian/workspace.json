@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md",
+                "file": "_mymind/All Malaysians have The Force.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md",
+                "file": "_mymind/All Malaysians have The Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md",
+                "file": "_mymind/All Malaysians have The Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_mymind/The Learner - Teacher Barrier.md"
+                "file": "_mymind/All Malaysians have The Force.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d1105bc2b795df",
+  "active": "b0eac0244f9bc7e6",
   "lastOpenFiles": [
+    "_mymind/The Learner - Teacher Barrier.md",
+    "_mymind/All Malaysians have The Force.md",
     "assets/images/Pasted image 20231204063612.png",
     "assets/images/Pasted image 20231204063636.png",
     "assets/images/secretsanta.png",
-    "_mymind/The Learner - Teacher Barrier.md",
     "about.md",
     "_site/assets/images/Pasted image 20231204063636.png",
     "_site/assets/images/Pasted image 20231204063612.png",
