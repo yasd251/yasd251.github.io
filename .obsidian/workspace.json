@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_mymind/All Malaysians have The Force.md",
+                "file": "_commonplace/11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_mymind/All Malaysians have The Force.md",
+                "file": "_commonplace/11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_mymind/All Malaysians have The Force.md",
+                "file": "_commonplace/11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_mymind/All Malaysians have The Force.md"
+                "file": "_commonplace/11.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "b0eac0244f9bc7e6",
   "lastOpenFiles": [
+    "_commonplace/9.md",
+    "_commonplace/10.md",
+    "_commonplace/11.md",
+    "_commonplace/8.md",
     "_mymind/The Learner - Teacher Barrier.md",
     "_mymind/All Malaysians have The Force.md",
     "assets/images/Pasted image 20231204063612.png",
