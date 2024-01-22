@@ -93,14 +93,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "The Magical Pocket Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b078d66dd825155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts on Conceptual Understanding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "Thoughts on Conceptual Understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea - alto..md",
+                "file": "Thoughts on Conceptual Understanding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea - alto..md"
+                "file": "Thoughts on Conceptual Understanding.md"
               }
             }
           }
@@ -227,23 +239,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53ea45394ef77a22",
+  "active": "2b078d66dd825155",
   "lastOpenFiles": [
+    "The Magical Pocket Book.md",
+    "Thoughts on Conceptual Understanding.md",
+    "Gamification of Life.md",
+    "Idea - alto..md",
     "Learning In Public.md",
-    "Untitled.md",
     "All Malaysians have The Force.md",
     "assets/Pasted image 20231204062924.png",
     "The Learner - Teacher Barrier.md",
     "My very own Programming Course.md",
     "Secret Santa Savior.md",
-    "Idea - alto..md",
     "The Student Wikipedia.md",
-    "The Magical Pocket Book.md",
     "assets/secretsanta.png",
     "assets",
     "Plant a Tomato Tree.md",
     "2023-11-23.md",
-    "Gamification of Life.md",
     "_templates/BLOG TEMPLATE.md",
     "_templates",
     "templates/BLOG TEMPLATE.md",
