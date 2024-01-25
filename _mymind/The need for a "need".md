@@ -7,7 +7,7 @@ I had this very interesting discussion the day before, and just wanted to share 
 
 This discussion stemmed from a book that I was reading the days prior called the "Structure of Scientific Revolutions" by Thomas S. Kuhn. I reflected upon what I have read so far and wanted to share it with the class. It was rather interesting book from which I understood about how there are "paradigm shifts" that alter how the scientific process is carried out and what new theories are made.
 
-The general assumption is that science grows through incremental accumulation of the works. Basically, "building upon the shoulders of giants". It interesting because it relates to many other fields where the same process of "layering" occurs. Although, there are certain serendipitous moments where scientific intuition leads to a thought that can be developed as a separate theory outside of the normal method of expansion within science, which is cool.
+The general assumption is that science grows through incremental accumulation of the previous works of others. Basically, "building upon the shoulders of giants". It interesting because it relates to many other fields where the same process of "layering" occurs. Although, there are certain serendipitous moments where scientific intuition leads to a thought that can be developed as a separate theory outside of the normal method of expansion within science, which is cool.
 
 Physics and the field of Maths has developed from the state of "need". People needed Physics and Maths to solve and uncover how certain natural phenomena worked, which drove them to develop theories and axioms. Without a need, these concepts simply would not come to fruition because there wouldn't be a need.
 
