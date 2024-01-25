@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The need for a "need"
+title: The need for a need
 date: 2024-01-25
 ---
 I had this very interesting discussion the day before, and just wanted to share thoughts about here and just the overall impact it has had on my perspective on science.
