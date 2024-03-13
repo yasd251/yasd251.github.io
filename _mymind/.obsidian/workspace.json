@@ -79,12 +79,8 @@
             "id": "5b7ea6b107bd69ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My very own Programming Course.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -117,14 +113,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The need for a \"need\".md",
+                "file": "The Student Wikipedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c45ce72a0f62591a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning from Teaching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -190,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The need for a \"need\".md",
+                "file": "Learning from Teaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The need for a \"need\".md",
+                "file": "Learning from Teaching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The need for a \"need\".md"
+                "file": "Learning from Teaching.md"
               }
             }
           }
@@ -251,16 +259,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd4ca0a304de47ca",
+  "active": "c45ce72a0f62591a",
   "lastOpenFiles": [
     "The Student Wikipedia.md",
+    "Learning from Teaching.md",
+    "_templates/BLOG TEMPLATE.md",
+    "Idea - alto..md",
     "The need for a \"need\".md",
     "Thoughts on Conceptual Understanding.md",
     "Secret Santa Savior.md",
     "The Learner - Teacher Barrier.md",
     "The Magical Pocket Book.md",
     "Gamification of Life.md",
-    "Idea - alto..md",
     "Learning In Public.md",
     "All Malaysians have The Force.md",
     "assets/Pasted image 20231204062924.png",
@@ -269,7 +279,6 @@
     "assets",
     "Plant a Tomato Tree.md",
     "2023-11-23.md",
-    "_templates/BLOG TEMPLATE.md",
     "_templates",
     "templates/BLOG TEMPLATE.md",
     "templates"
